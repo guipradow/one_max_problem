@@ -7,6 +7,9 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+mlrose = {git = "https://github.com/gkhayes/mlrose.git"}
+ipykernel = "^6.29.4"
+scikit-learn = "^1.4.2"
 
 
 [build-system]
