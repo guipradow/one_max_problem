@@ -6,10 +6,10 @@ authors = ["Guilherme Prado <guizmk@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10"
+python = "^3.9"
 mlrose = {git = "https://github.com/gkhayes/mlrose.git"}
 ipykernel = "^6.29.4"
-scikit-learn = "^1.4.2"
+easyga = "^1.6.1"
 
 
 [build-system]
