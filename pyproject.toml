@@ -10,6 +10,7 @@ python = "^3.9"
 mlrose = {git = "https://github.com/gkhayes/mlrose.git"}
 ipykernel = "^6.29.4"
 easyga = "^1.6.1"
+deap = "^1.4.1"
 
 
 [build-system]
